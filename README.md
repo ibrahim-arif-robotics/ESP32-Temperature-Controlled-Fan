@@ -17,4 +17,4 @@ This project was developed for the ESP32 WROOM 32
 adapting it for an Arduino Uno would require modifications
 to the code and pin assignments to account for hardware differences.
 
-## i will add an image of the wiring diagram later
+## i will add an image of the wiring diagram later and improve the code
